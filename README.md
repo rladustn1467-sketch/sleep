@@ -1,6 +1,11 @@
 # SleepAI Lab — EEG 기반 수면 분석 & 수면 장애 조기 스크리닝 프로토타입
 
 실행링크 : https://sleep.kdt2025.com/   
+<img width="1655" height="739" alt="image" src="https://github.com/user-attachments/assets/28b569fe-ee1e-4fec-84af-4c45d2ae8c5d" />   
+<img width="1051" height="912" alt="image" src="https://github.com/user-attachments/assets/d36413db-cb9e-448d-af2b-170d6d7dafe6" />   
+
+
+
 
 > ⚠️ **중요**: 본 프로젝트는 실제 의료 진단을 대체하지 않는 **AI 기반 수면 분석 및 조기 스크리닝 프로토타입**입니다.
 > 모든 데이터는 발표 시연을 위한 **샘플(시뮬레이션) 데이터**이며, 실제 EEG 센서·딥러닝 추론을 수행하지 않습니다.
