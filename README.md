@@ -1,6 +1,6 @@
-# SleepAI Lab — EEG 기반 수면 분석 & 수면 장애 조기 스크리닝 프로토타입
+### SleepAI Lab — EEG 기반 수면 분석 & 수면 장애 조기 스크리닝 프로토타입
 
-실행링크 : https://sleep.kdt2025.com/   
+## 실행링크 : https://sleep.kdt2025.com/   
 <img width="1655" height="739" alt="image" src="https://github.com/user-attachments/assets/28b569fe-ee1e-4fec-84af-4c45d2ae8c5d" />   
 <img width="1051" height="912" alt="image" src="https://github.com/user-attachments/assets/d36413db-cb9e-448d-af2b-170d6d7dafe6" />   
 
